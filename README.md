@@ -1,121 +1,3 @@
-Skip to content
-Navigation Menu
-Yuvan2
-/
-BOOLEAN_FUNCTION_MINIMIZATION
-
-Type / to search
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Files
-Go to file
-t
-db
-hc_output
-incremental_db
-output_files
-simulation
-Boolean_min.qpf
-Boolean_min.qsf
-Boolean_min.qws
-Boolean_min.v
-Boolean_min.v.bak
-LICENSE
-README.md
-Waveform2.vwf
-c5_pin_model_dump.txt
-cio_dump_disallowed_lists.echo
-Editing README.md in BOOLEAN_FUNCTION_MINIMIZATION
-You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork yogeshwaran72/BOOLEAN_FUNCTION_MINIMIZATION, so you can send a pull request.
-BreadcrumbsBOOLEAN_FUNCTION_MINIMIZATION
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -137,7 +19,6 @@ Hardware – PCs, Cyclone II , USB flasher
 **Logic Diagram**
 
 **Procedure**
-
 1.	Type the program in Quartus software.
 
 2.	Compile and run the program.
@@ -174,15 +55,25 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 
-Developed by:A.yogeshwaran
-Register Number:212223040249
+Developed by:V.YOHAN YUVAN KUMAR
+Register Number:212222053006
 ~~~
 
 ## Logic Symbol and Truth table
 ![316294107-a6b8101c-bd3c-4b64-bc4a-f4a8962ac13a](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/ab520f8d-0d6f-4bb9-96e6-33968a037418)
 
 ![316294144-348e89c8-b4d6-4c9e-8783-541ac0829105](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/21cb2aef-7529-4ced-a473-68b7a9e53d62)
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing BOOLEAN_FUNCTION_MINIMIZATION/README.md at main · Yuvan2/BOOLEAN_FUNCTION_MINIMIZATION
+
+## RTL realization output
+
+![316294053-be51436b-369d-4d09-b411-d66fb1a3d375](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/4d407a87-3dc2-49e6-bea8-bb7683f1857d)
+
+
+## RTL
+
+![316293995-ece7870f-2a5d-4e6b-b2f6-fa708c2a5b11](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/042b4487-4220-4e63-a855-f1475debf723)
+
+## Result:
+
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+
