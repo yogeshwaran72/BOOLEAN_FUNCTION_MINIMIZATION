@@ -56,8 +56,8 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 
-Developed by:V.YOHAN YUVAN KUMAR
-Register Number:212222053006
+Developed by:A.yogeshwaran
+Register Number:212223040249
 ~~~
 
 ## Logic Symbol and Truth table
